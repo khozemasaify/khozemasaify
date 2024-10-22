@@ -11,7 +11,7 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **Jenkins, LINUX, AWS**
+ 🌱 I’m currently learning **Python, LINUX, AWS**
 
 ⚡ Fun fact **JavaScript was created in just 10 days in 1995.**
 
